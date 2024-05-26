@@ -1,0 +1,82 @@
+[
+    {
+        "question": "1+1",
+        "answer": "2"
+    },
+    {
+        "question": "2+2",
+        "answer": "4"
+    },
+    {
+        "question": "/3+3",
+        "answer": "6"
+    },
+    {
+        "question": "6+6",
+        "answer": "12"
+    },
+    {
+        "question": "10+5",
+        "answer": "15"
+    },
+    {
+        "question": "10+10",
+        "answer": "20"
+    },
+    {
+        "question": "10+15",
+        "answer": "25"
+    },
+    {
+        "question": "30+3",
+        "answer": "33"
+    },
+    {
+        "question": "30+15",
+        "answer": "45"
+    },
+    {
+        "question": "25+25",
+        "answer": "50"
+    },
+    {
+        "question": "30+30",
+        "answer": "60"
+    },
+    {
+        "question": "30+35 ",
+        "answer": "65"
+    },
+    {
+        "question": "33+33 ",
+        "answer": "66"
+    },
+    {
+        "question": "35+35",
+        "answer": "70"
+    },
+    {
+        "question": "40+40",
+        "answer": "80"
+    },
+    {
+        "question": "50+50",
+        "answer": "100"
+    },
+    {
+        "question": "100+5",
+        "answer": "105"
+    },
+    {
+        "question": "100+10",
+        "answer": "110"
+    },
+    {
+        "question": "100+20",
+        "answer": "120"
+    },
+    {
+        "question": "100+30",
+        "answer": "130"
+    }
+]
